@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ClickUp Image Downloader - Private Data
+# Downloaded images and private data
+images_download/
+sorted_images/
+
+# ClickUp API tokens and sensitive data
+CLICKUP_TOKEN
+TEAM_ID
+
+# Generated metadata files
+.download_metadata.json
+.failed_downloads.json
+.processed_tasks.json
+
+# Image sorter data
+image_sorter/sorted_images.json
+image_sorter/sorting_progress.json
+image_sorter/.download_metadata.json
+image_sorter/.failed_downloads.json
+image_sorter/.processed_tasks.json
+
+# Additional environment files
+*.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/images_download_all.zip
