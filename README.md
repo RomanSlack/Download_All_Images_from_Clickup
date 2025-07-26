@@ -203,3 +203,50 @@ If you encounter issues:
 ---
 
 **⭐ Star this repo if it helped you organize your ClickUp images!**
+
+## Frequently Asked Questions
+
+### How to automatically download all my images from ClickUp?
+Use this tool to bulk download all image attachments from your ClickUp workspace with a single command.
+
+### How to export all images from ClickUp workspace?
+This Python script automatically exports and downloads all images from your entire ClickUp workspace, organized by spaces and lists.
+
+### ClickUp bulk image download tool?
+Yes, this tool provides bulk download functionality for all ClickUp image attachments with resume capability and error handling.
+
+### How to backup ClickUp images?
+Use this tool to create a complete backup of all images in your ClickUp workspace, maintaining the original folder structure.
+
+### ClickUp image extractor Python script?
+This is a comprehensive Python script that extracts and downloads all image attachments from ClickUp using the official API.
+
+### How to save all ClickUp attachments?
+This tool specifically handles image attachments (JPG, PNG, GIF, etc.) and saves them locally with proper organization.
+
+### ClickUp API download all images?
+Uses the official ClickUp API to securely download all image attachments from your workspace with proper authentication.
+
+### How to organize downloaded ClickUp images?
+The tool includes a built-in image sorter with keyboard shortcuts to quickly categorize images into different folders.
+
+### ClickUp workspace image migration tool?
+Perfect for migrating images when switching platforms or creating backups of your ClickUp workspace content.
+
+### How to sort thousands of images quickly?
+Includes a fast binary sorting interface with keyboard shortcuts (1, 2, S, Q) to rapidly categorize large image collections.
+
+### ClickUp image downloader with resume?
+Features automatic resume capability - if interrupted, the tool continues from where it left off without re-downloading existing images.
+
+### How to handle ClickUp API rate limits when downloading?
+Built-in rate limiting respects ClickUp's API limits (≈85 requests/minute) to ensure stable, reliable downloads.
+
+### Python script to download ClickUp attachments?
+Complete Python solution with progress tracking, error handling, and duplicate detection for ClickUp image downloads.
+
+### How to get ClickUp API token for downloading images?
+Detailed instructions included for obtaining your ClickUp API token and Team ID from your workspace settings.
+
+### ClickUp image backup automation?
+Fully automated solution that scans your entire workspace and downloads all images with minimal user intervention.
